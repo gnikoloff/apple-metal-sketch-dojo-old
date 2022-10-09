@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "Material.init(material:):Submesh.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "a.type">
+            </PersistentString>
+            <PersistentString
+               value = "roughness = material?.property(with: .roughness).type">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GLOBAL">
+         <PersistentStrings>
+            <PersistentString
+               value = "material?.property(with: .metallic).type">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
